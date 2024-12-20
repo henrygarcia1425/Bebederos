@@ -1,0 +1,196 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1257" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="50" width="990" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-2" value="Objetivos" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-8" value="Proveer acceso adecuado a agua potable para las zonas rurales y urbanas de Zarzal, garantizando puntos de hidratación accesibles y sostenibles para la comunidad." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="10" y="65" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="Analisis sitacion actual" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="160" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="77e6c97f196da883-11" target="xtVxE9TFLZaD04l9HtAB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-11" value="&lt;b&gt;Identificación de las áreas con mayor déficit de acceso a agua potable, con énfasis en zonas rurales y de alto tránsito.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="20" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="77e6c97f196da883-9" target="xtVxE9TFLZaD04l9HtAB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Análisis de fuentes cercanas (ríos, pozos, fuentes de agua potable) y su calidad&lt;/b&gt;.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="335" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="xtVxE9TFLZaD04l9HtAB-1" target="77e6c97f196da883-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-1" value="&lt;b&gt;Zonas prioritarias&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="40" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="xtVxE9TFLZaD04l9HtAB-3" target="77e6c97f196da883-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-3" value="&lt;b&gt;Fuentes de agua disponibles&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="xtVxE9TFLZaD04l9HtAB-6" target="xtVxE9TFLZaD04l9HtAB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-6" value="&lt;b&gt;Condiciones de infraestructura actual&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="430" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Revisión de la red de agua potable y su cobertura en las áreas identificadas.&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-4" value="Ubicacion bebederos" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-12" value="&lt;b&gt;Identificación de puntos estratégicos como plazas públicas, centros educativos, centros de salud, y mercados donde se concentra la población.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="25" y="140" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-4" source="77e6c97f196da883-13" target="xtVxE9TFLZaD04l9HtAB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-13" value="&lt;b&gt;Mapeo preliminar&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="40" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-4" source="77e6c97f196da883-12" target="77e6c97f196da883-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="xtVxE9TFLZaD04l9HtAB-10" target="77e6c97f196da883-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-10" value="&lt;b&gt;Zonas seleccionadas&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="35" y="40" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-14" value="&lt;b&gt;Determinación de ubicaciones específicas en el municipio mediante un mapa detallado, tomando en cuenta factores de accesibilidad y proximidad a fuentes de agua.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="15" y="360" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-5" value="Diseño" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="480" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-5" source="77e6c97f196da883-15" target="77e6c97f196da883-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-15" value="&lt;b&gt;Bebederos de agua manuales y automáticos de bajo mantenimiento, con opción de instalación en áreas externas.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="30" y="120" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-5" source="77e6c97f196da883-16" target="77e6c97f196da883-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-16" value="&lt;b&gt;Materiales propuestos&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="40" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-5" source="77e6c97f196da883-17" target="xtVxE9TFLZaD04l9HtAB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-17" value="&lt;b&gt;Construcción con materiales duraderos como acero inoxidable o concreto reforzado, para asegurar resistencia y fácil mantenimiento.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="30" y="300" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-19" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Cada bebedero tendrá una capacidad de 100 a 150 litros por día, con un sistema de distribución simple y accesible para todas las edades.&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="25" y="480" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-20" value="&lt;b&gt;Sistema de captación y filtrado&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="20" y="590" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-5" source="77e6c97f196da883-19" target="77e6c97f196da883-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-5" source="xtVxE9TFLZaD04l9HtAB-16" target="77e6c97f196da883-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-16" value="&lt;b&gt;Tipo de bebederos&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="40" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-5" source="xtVxE9TFLZaD04l9HtAB-32" target="77e6c97f196da883-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-32" value="&lt;b&gt;Capacidad y estructura&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="40" y="400" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-6" value="Evaluacion de costos" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="640" y="20" width="190" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="77e6c97f196da883-18" target="xtVxE9TFLZaD04l9HtAB-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-18" value="&lt;b&gt;&amp;nbsp;Costo de construcción de bebederos (materiales, bombas, filtros, paneles solares, etc.).&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="45" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="77e6c97f196da883-21" target="xtVxE9TFLZaD04l9HtAB-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-21" value="&lt;b&gt;Estimación de los costos de instalación y capacitación del personal local para el mantenimiento.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="45" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-23" value="&lt;b&gt;Implementación de un sistema de filtrado básico para garantizar la calidad del agua. Los bebederos se conectarán a pozos o a la red de agua potable existente, con sistemas de bombeo solar para zonas rurales sin acceso a electricidad.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="35" y="590" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="xtVxE9TFLZaD04l9HtAB-56" target="77e6c97f196da883-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-56" value="&lt;b&gt;Materiales&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="55" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="xtVxE9TFLZaD04l9HtAB-58" target="77e6c97f196da883-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-58" value="&lt;b&gt;Mano de obra&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="55" y="200" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="xtVxE9TFLZaD04l9HtAB-61" target="xtVxE9TFLZaD04l9HtAB-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-61" value="&lt;b&gt;Costos Operativos&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="55" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-63" value="&lt;b&gt;Mantenimiento anual de los bebederos, incluido el reemplazo de filtros y sistema de bombeo&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="45" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-7" value="Plan de Implementación" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="830" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-7" source="77e6c97f196da883-24" target="xtVxE9TFLZaD04l9HtAB-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-24" value="&lt;b&gt;&amp;nbsp;Diseño detallado, obtención de permisos, selección de proveedores y construcción de los primeros 10 bebederos en zonas críticas.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
+          <mxGeometry x="25" y="130" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-7" source="xtVxE9TFLZaD04l9HtAB-65" target="77e6c97f196da883-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-65" value="&lt;b&gt;Fase 1&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="40" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-66" value="&lt;b&gt;Fase2&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="40" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-7" source="xtVxE9TFLZaD04l9HtAB-67" target="xtVxE9TFLZaD04l9HtAB-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-67" value="&lt;b&gt;Fase 3&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="40" y="400" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-68" value="&lt;b&gt;Evaluación de resultados y expansión del proyecto según la demanda, con estrategias para la participación comunitaria en el mantenimiento.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="30" y="490" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-7" source="xtVxE9TFLZaD04l9HtAB-69" target="xtVxE9TFLZaD04l9HtAB-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-69" value="&lt;b&gt;&amp;nbsp;Instalación de bebederos en zonas adicionales y pruebas de funcionamiento con retroalimentación comunitaria.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="30" y="295" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xtVxE9TFLZaD04l9HtAB-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-20" target="77e6c97f196da883-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
